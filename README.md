@@ -58,6 +58,6 @@ As the term could be entered incorrectly, for example 'Unite Kingdom', I added a
 At the moment, the resulting map is still in progress. However, the iterim result is displayed below:
 <img  src="https://github.com/maciejtarsa/Webpage-Word-Counter/blob/main/world.png">
 <p align="center"><i>Created by my son using simplemaps.com</i></p>
-Some words have been excluded even though they can have high frequencies - linking words, demonyms, 'country', 'world', 'government' and the name of the country the page is about.<br>
+Some words have been excluded even though they can have high frequencies - linking words, demonyms, 'country', 'world', 'government', and the name of the country the page is about and it's derivatives.<br>
 For example, 'largest' has been chosen for China, while the application returns the following ('word":count):<br> 
 'China': 367, 'Chinese': 153, 'world': 111, 'country': 55; 'largest': 55, 'dynasty': 45, 'million': 44, 'population': 39, 'also': 36, 'needed': 36, [...]
