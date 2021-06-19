@@ -1,6 +1,4 @@
 # Webpage Word Counter
-An application that extracts the content of a website and displays the most frequently occurring words on that webpage.
-<br><br>
 My 6-year-old son has been continuing with his strong interest in political geography and recently discovered a book by Ian Wright titled 'Brilliant Maps'. One of those maps  was about the most recurring word in each country's English Wikipedia page. 
 <br><br>
 Seeing as recently I have been learning about Natural Language Processing, I though it would be fun to recreate it by coding a simple Python application that returns the top occuring words from a Wikipedia page so that my son can use it and recreate that map. He loves creating maps with tools such as [mapchart.net](https://mapchart.net) or [simplemaps.com](https://simplemaps.com). A win-win situation - NLP practice for me, a fun activity for him.
