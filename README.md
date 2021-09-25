@@ -75,5 +75,5 @@ for index, row in countries.iterrows():
 ```
 ## The resulting map
 The resulting map contains 162 countries. Some have been lost, due to GeoPandas not being able to match up with the other dataset, however most of them were smaller countries and overseas territories.
-<img  src="https://github.com/maciejtarsa/Webpage-Word-Counter/blob/main/top_words_per_country.png">
+<img  src="https://github.com/maciejtarsa/Webpage-Word-Counter/blob/main/top_words.png">
 <div align='center'><i>Created using Matplotlib in Python</i></div>
